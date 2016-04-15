@@ -1,6 +1,6 @@
 {
   "name": "try-invoke",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Attempts to invoke the given function, returning either the result or the caught error object.",
   "main": "index.js",
   "scripts": {
